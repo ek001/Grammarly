@@ -35,7 +35,7 @@ const Section2 = () => {
             desc="Style, tone, and clarity improvements for writing at work and school."
             buttonText={{ text: "Upgrade to Grammarly Premium", classList: "", link:"https://www.grammarly.com/upgrade?utm_campaign=funnelPremiumAboveTheFold&utm_medium=internal&utm_source=funnel" }}
             features={[
-              {text:"Everything in Free", text2: null},
+              {text:"Everything in Free", text2: "Get many helpful features for free."},
               {text:"Clarity-focused sentence rewrites", text2: "Automatically re-write hard to read sentences." },
               {text:"Tone adjustments", text2: "Eliminate hedging language or unnecassary qualifier to sound more confident."},
               {text:"Plagiarism detection", text2: "Ensure your work is fresh and original by checking against 16 billion web pages."},
