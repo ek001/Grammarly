@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Quillbot/static/css/main.7b8c0397.css",
+    "main.js": "/Quillbot/static/js/main.a37da393.js",
+    "static/js/787.f4c814c9.chunk.js": "/Quillbot/static/js/787.f4c814c9.chunk.js",
+    "static/media/swoosh_atf.png": "/Quillbot/static/media/swoosh_atf.f6044d4ecaf5e4a9a537.png",
+    "static/media/slide1-small.svg": "/Quillbot/static/media/slide1-small.d2416f247748021272209cbadcb8807a.svg",
+    "static/media/slide1-big.svg": "/Quillbot/static/media/slide1-big.655eccbff4e4146c32c2b606fccab68b.svg",
+    "static/media/slide2-big.svg": "/Quillbot/static/media/slide2-big.3ae54aab15261add9277a6b14f7f5ab7.svg",
+    "static/media/slide2-small.svg": "/Quillbot/static/media/slide2-small.7b689c5e1708616b4610da38ef82516d.svg",
+    "static/media/slide4-small.svg": "/Quillbot/static/media/slide4-small.97b53bb0e8a07eda5148b215e73fd637.svg",
+    "static/media/slide3-big.svg": "/Quillbot/static/media/slide3-big.02c55be9df3dbbf5aa488abc81bc3c55.svg",
+    "static/media/slide4-big.svg": "/Quillbot/static/media/slide4-big.99fe2ff1bbad7f2bfacb697d582fae03.svg",
+    "static/media/slide3-small.svg": "/Quillbot/static/media/slide3-small.c57ae55de14916d62252f2f8c752da92.svg",
+    "index.html": "/Quillbot/index.html",
+    "static/media/checkmark.svg": "/Quillbot/static/media/checkmark.e4b270fc21827d78043e.svg",
+    "main.7b8c0397.css.map": "/Quillbot/static/css/main.7b8c0397.css.map",
+    "main.a37da393.js.map": "/Quillbot/static/js/main.a37da393.js.map",
+    "787.f4c814c9.chunk.js.map": "/Quillbot/static/js/787.f4c814c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b8c0397.css",
+    "static/js/main.a37da393.js"
+  ]
+}
